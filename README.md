@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkatesh</h1>
+<h1 align="center">Hi 👋, I'm Venkatesh K</h1>
 
 <h3 align="center">
 ECE Student | IoT Developer | Embedded Systems Enthusiast
@@ -94,26 +94,6 @@ An IoT-based smart blind stick designed to help visually impaired people navigat
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh-9047&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-9047&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Venkatesh-9047&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🏆 Achievements & Certifications
 
 - IBM Generative AI Certification
@@ -137,10 +117,6 @@ An IoT-based smart blind stick designed to help visually impaired people navigat
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Venkatesh-9047&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
