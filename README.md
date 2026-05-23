@@ -1,48 +1,147 @@
 <h1 align="center">Hi 👋, I'm Venkatesh</h1>
 
 <h3 align="center">
-ECE Student | Embedded Systems | IoT Developer
+ECE Student | IoT Developer | Embedded Systems Enthusiast
 </h3>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🔭 Working on Blind Stick IoT Project
-- 🌱 Learning Embedded Systems & Arduino
-- 💻 Interested in IoT and Software Development
-- 🎓 ECE Student
-- ⚡ Passionate about electronics and innovation
+- 🎓 B.E Electronics and Communication Engineering Student
+- 🔭 Currently working on IoT & Full Stack Projects
+- 🌱 Learning Embedded Systems and Advanced Web Development
+- 💡 Passionate about Problem Solving and Innovation
+- ⚡ Interested in IoT, Embedded Systems, and Software Development
 
 ---
 
-## 🛠 Languages and Tools
+# 🚀 Skills & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,vscode,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,mongodb,git,vscode,firebase" />
+</p>
+
+### 💻 Programming Languages
+- Python
+- Java
+- C
+- C++
+
+### 🌐 Web Development
+- HTML
+- CSS
+- JavaScript
+
+### 🗄 Database
+- MongoDB
+- Firebase
+
+### 🛠 Other Skills
+- Problem Solving
+- Data Structures & Algorithms
+- IoT Development
+- Embedded Systems
+- Git & GitHub
+
+---
+
+# 🌟 Featured Projects
+
+## 🌾 Farm2Customer (F2C)
+
+A full-stack serverless application connecting local farmers directly with customers.
+
+### 🔑 Features
+
+### 👨‍🌾 For Farmers
+- Product management dashboard
+- Real-time inventory system
+- Secure seller authentication
+- Product listing with images and pricing
+
+### 🛒 For Customers
+- Location-based product discovery
+- Smart shopping cart
+- Real-time product availability
+- Easy checkout experience
+
+### 🧰 Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Firebase
+- MongoDB
+
+---
+
+## 🦯 Intelligent Blind Stick using Arduino
+
+An IoT-based smart blind stick designed to help visually impaired people navigate safely.
+
+### Features
+- Obstacle detection using ultrasonic sensors
+- Water detection system
+- GPS location tracking
+- Bluetooth connectivity
+- Vibration and buzzer alert system
+
+### Technologies Used
+- Arduino
+- Ultrasonic Sensors
+- GPS Module
+- HC-05 Bluetooth Module
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Venkatesh-9047&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-9047&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📌 Projects
+# 🔥 GitHub Streak
 
-### Intelligent Blind Stick using Arduino
-- Obstacle detection using ultrasonic sensors
-- Water detection sensor
-- GPS + Bluetooth integration
-- Vibration and buzzer alert system
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Venkatesh-9047&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Achievements & Certifications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkatesh-9047&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-9047&layout=compact&theme=tokyonight)
+- IBM Generative AI Certification
+- Embedded Systems Internship
+- VHDL Workshop
+- Embedded Systems Workshop
+- Participated in Technical Symposiums
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/venkatesh-k-74b540282
-- Email: k.venkatesh122004@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/venkatesh-k-74b540282">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  
+  <a href="mailto:k.venkatesh122004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Venkatesh-9047&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
