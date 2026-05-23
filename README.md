@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkatesh K</h1>
 
 <h3 align="center">
-ECE Student | IoT Developer | Embedded Systems Enthusiast
+ECE Student | Full-Stack Developer (MERN) | Embedded Systems Enthusiast
 </h3>
 
 ---
